@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: A “50% off” sign increases sales, even if shoppers don’t know the original price or what a reasonable price for the product would be.
+- 💬 Ask me about test automation in general, or specifically about Selenium and Playwright
+- 🐈‍⬛ Ninja, really hates me being on the phone (you might hear her complaining)
+
 <!--
 **stempkai/stempkai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
